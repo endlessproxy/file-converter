@@ -1,0 +1,14 @@
+C:\Users\andre\Documents\Projetos\ConverterArquivos\bin\Debug\net9.0\ConverterArquivos.exe
+C:\Users\andre\Documents\Projetos\ConverterArquivos\bin\Debug\net9.0\ConverterArquivos.deps.json
+C:\Users\andre\Documents\Projetos\ConverterArquivos\bin\Debug\net9.0\ConverterArquivos.runtimeconfig.json
+C:\Users\andre\Documents\Projetos\ConverterArquivos\bin\Debug\net9.0\ConverterArquivos.dll
+C:\Users\andre\Documents\Projetos\ConverterArquivos\bin\Debug\net9.0\ConverterArquivos.pdb
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\ConverterArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\ConverterArquivos.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\ConverterArquivos.AssemblyInfo.cs
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\ConverterArquivos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\ConverterArquivos.dll
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\refint\ConverterArquivos.dll
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\ConverterArquivos.pdb
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\ConverterArquivos.genruntimeconfig.cache
+C:\Users\andre\Documents\Projetos\ConverterArquivos\obj\Debug\net9.0\ref\ConverterArquivos.dll
